@@ -1,6 +1,6 @@
 ## 欢迎来到射死人的傻逼github.io
 
-You can use the [editor on GitHub](https://github.com/THTqunshesiren/thtqunshesiren.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+火速点击[这里](https://www.mcbbs.net/forum-servermod-1.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
